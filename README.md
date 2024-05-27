@@ -1,6 +1,5 @@
-# Portfolio
-<h1>Hi, I'm Richa! <br/><a href="https://github.com/richarastogi2001">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-<h2>:male-technologist: Software Development Projects:</h2>
+<h1>Hi, I'm Richa! <br/><a href="https://github.com/richarastogi2001">Oracle DBA</a>, <a href="https://www.linkedin.com/in/richa-rastogi">Aspiring Data Analyst</a></h1>
+<h2>Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
